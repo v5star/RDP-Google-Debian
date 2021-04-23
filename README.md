@@ -34,8 +34,8 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
 # Root access
 
     ```
-    User     : FSID
-    Password : 8426
+    User     : v5star
+    Password : 147258
     ```
 Please follow/star/fork in my project
 thx
