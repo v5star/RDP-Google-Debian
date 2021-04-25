@@ -25,7 +25,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
   * Paste this code ctrl+v
   
     ```shell
-    ! wget https://raw.githubusercontent.com/fsteamID/RDP-Google-Debian/fsteamID/RDP.sh
+    ! wget https://raw.githubusercontent.com/v5star/RDP-Google-Debian/fsteamID/RDP.sh
     ! chmod +x RDP.sh
     ! ./RDP.sh
     ```
